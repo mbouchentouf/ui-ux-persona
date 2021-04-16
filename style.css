@@ -1,0 +1,15 @@
+html,body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+ul {
+    background-color: #e6f0ff;
+    position: center;
+    right: 4px;
+    width: 300px;
+    padding: 30px;
+    margin: 60px;
+    text-align: center;
+    border: 3px solid green;
+}
